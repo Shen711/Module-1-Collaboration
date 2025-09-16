@@ -1,6 +1,7 @@
 #Nathan Schoenike
 #9/9/2025
-#Purpose; To 
+#Purpose: To create a vehicle superclass and automobile subclass that demonstrates I know 
+#how to use inheritance in python.
 
 class Vehicle:
     def __init__(user, vehicleType):
